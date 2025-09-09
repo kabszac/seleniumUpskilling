@@ -44,9 +44,9 @@ public class FinalProject {
 //		    e.printStackTrace(); // Handle the exception if the sleep is interrupted
 //		}
 //		
-//		driver.findElement(By.id("email")).sendKeys("0774107719");
+//		driver.findElement(By.id("email")).sendKeys("");
 //		
-//		driver.findElement(By.id("pass")).sendKeys("kak879j");
+//		driver.findElement(By.id("pass")).sendKeys("");
 //		
 //		driver.findElement(By.id("loginbutton")).click();
 //		
